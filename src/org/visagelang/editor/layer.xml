@@ -20,7 +20,7 @@
     <folder name="OptionsDialog">
         <folder name="PreviewExamples">
             <folder name="text">
-                <file name="x-simplejava" url="VisageTemplate.visage"/>
+                <file name="x-visage" url="VisageTemplate.visage"/>
             </folder>
         </folder>
     </folder>
